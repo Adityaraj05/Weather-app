@@ -40,8 +40,8 @@ const WeatherData = () => {
         e.preventDefault();
         getdata();
     }
-
     
+// Here we are using decideBg 
 
     const decideBg = (args1, args2) => {
         const timestamp = args2
