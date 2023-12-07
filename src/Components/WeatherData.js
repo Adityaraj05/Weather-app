@@ -41,6 +41,8 @@ const WeatherData = () => {
         getdata();
     }
 
+    
+
     const decideBg = (args1, args2) => {
         const timestamp = args2
         const conversion = new Date((timestamp * 1000));

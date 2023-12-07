@@ -10,4 +10,5 @@ const getWeatherData = async (queryparams) => {
     return rawdata;
 }
 
+// exporting getWeatherData
 export default getWeatherData
