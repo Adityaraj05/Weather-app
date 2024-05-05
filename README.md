@@ -69,5 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-Quine Git Hub code : [![Smit1324's GitHub | Stats](https://stats.quine.sh/Smit1324/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Smit1324)
